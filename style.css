@@ -382,7 +382,7 @@ ul.sub-menu li:hover a span{
 ==================================================*/
 .banner-area {
     /* background-color: #1356e4; */
-    background-image: url('/assets/images/bg-img-banner.png');
+    background-image: url('/assets/images/banner/banner_bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     margin-bottom: 30px;
