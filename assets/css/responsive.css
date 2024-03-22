@@ -1,0 +1,1364 @@
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px) {
+    .banner-thumb img {
+        width: 100%;
+    }
+
+    .hostlux_menu>ul>li>a {
+        font-size: 18px;
+        margin: 12px 11px;
+    }
+
+    .tab-thumb {
+        margin-left: -46px;
+        margin-top: -24px;
+    }
+
+    .pricing-single-box.upper .pricing-content-title span {
+        left: 221px;
+        top: 45px;
+        width: 245px;
+    }
+
+    .quote-icon {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+    }
+
+}
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width: 1399px) {
+/*header-menu*/
+.hostlux_menu>ul>li>a {
+    margin: 15px 7px;
+}
+
+.tab-thumb img {
+    width: 100%;
+}
+
+.dreamit-tabs:before {
+    right: 51px;
+}
+
+.testi-single-box-profile:before {
+    right: 318px;
+}
+
+.pricing-content-title h5 {
+    margin-left: 0;
+}
+
+.quote-icon {
+    height: 55px;
+    width: 55px;
+    line-height: 55px;
+}
+
+.pricing-single-box.upper .pricing-content-title span {
+    left: 37px;
+    top: 0px;
+}
+
+.feature-box-content h3 {
+    font-size: 18px;
+    line-height: 48px;
+}
+
+.tab-thumb {
+    padding-left: 106px;
+}
+
+.pricing-single-box.upper .pricing-content-title span {
+    width: 230px;
+    top: 41px;
+    left: 176px;
+}
+
+.pricing-rate:before {
+    left: -21px;
+}
+
+span.pricing-persent {
+    padding: 2px 7px;
+}
+
+.dreamhub-btn.pricing a {
+    padding: 12px 60px;
+    width: 271px;
+}
+
+.blog-title h6 {
+    top: -180px;
+}
+
+}
+
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px) {
+.sticky .hostlux_menu>ul>li>a {
+    font-size: 12px;
+}
+
+.hostlux_menu>ul>li>a {
+    margin: 15px 7px;
+}
+
+.sticky .hostlux_menu>ul>li>a {
+    font-size: 15px;
+}
+
+.banner-title h1 {
+    font-size: 48px;
+}
+
+.banner-thumb img {
+    width: 100%;
+}
+
+.testi-single-box-profile:before {
+    right: 319px;
+}
+
+.sticky ul.nav_scroll li a span i {
+    font-size: 15px;
+}
+
+.feature-box-content h3 {
+    font-size: 18px;
+}
+
+.feature-box-content p {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.service-thumb img {
+    width: 95%;
+}
+
+.tab-thumb {
+    margin-left: -25px;
+}
+
+.tab-thumb img {
+    width: 95%;
+}
+
+.dreamit-tabs:before {
+    right: 50px;
+}
+
+.pricing-single-box.upper .pricing-content-title span {
+    left: 66px;
+    top: -11px;
+}
+
+.pricing-single-box.upper .pricing-content-title span {
+    left: 174px;
+    top: 40px;
+}
+
+.dreamhub-btn.pricing a {
+    padding: 12px 80px;
+    width: 270px;
+}
+
+.blog-title h6 {
+    top: -179px;
+}
+
+.pricing-rate:before {
+    left: -19px;
+}
+
+}   
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+.hostlux_menu>ul>li>a {
+    font-size: 14px;
+    margin: 3px 6px;
+    font-weight: 400;
+}
+ul.nav_scroll li a span i {
+    font-size: 12px;
+}
+.cart-menu::before {
+    top: 21px;
+    width: 12px;
+    height: 12px;
+    line-height: 12px;
+}
+.banner-title h5 {
+    font-size: 20px;
+    padding: 5px 10px;
+}
+.banner-title h1 {
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 600;
+}
+.service-thumb img {
+    width: 100%;
+}
+.section-title h1 {
+    font-size: 38px;
+    font-weight: 600;
+}
+.about_thumb img {
+    width: 100%;
+}
+.single-feature-box {
+    display: inherit;
+}
+.feature-box-content h3 {
+    font-size: 20px;
+    line-height: 35px;
+    font-weight: 600;
+}
+.tab-thumb {
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.contact-thumb img {
+    margin: 0 0 25px;
+}
+
+.tab-thumb img {
+    width: 100%;
+}
+.dreamit-tabs:before {
+    right: 30px;
+    width: 432px;
+}
+.application-single-box {
+    padding: 40px 10px 35px;
+}
+.application-title h3 {
+    font-size: 20px;
+}
+.application-button a {
+    font-size: 15px;
+    padding: 4px 18px;
+}
+.section-title h2 {
+    font-size: 30px;
+}
+.testi-rate-icon:before {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 13px;
+}
+.testi-rate-icon {
+    padding: 3px 9px 0 18px;
+}
+.quote-icon {
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+}
+.testi-single-box-title h3 {
+    font-size: 19px;
+    line-height: 55px;
+    font-weight: 500;
+}
+.testi-single-box-desc p {
+    font-size: 15px;
+}
+.testi-single-box-profile:before {
+    right: 259px;
+}
+.testi-profile-title h5 {
+    font-size: 15px;
+    font-weight: 500;
+}
+.testi-profile-designation h6 {
+    font-size: 15px;
+}
+.single-domain img {
+    margin-left: 14px;
+}
+/* pricing area */
+.pricing-content-title h5 {
+    font-size: 20px;
+}
+.pricing-single-box.upper .pricing-content-title span {
+    padding: 3px 25px;
+    width: 177px;
+    left: 144px;
+    top: 36px;
+}
+.pricing-rate h3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.pricing-rate:before {
+    width: 225px;
+}
+.pricing-content-title span {
+    padding: 2px 5px;
+}
+.pricing-content-title span {
+    padding: 1px 4px;
+}
+.pricing-info ul li {
+    font-size: 14px;
+    line-height: 35px;
+}
+.dreamhub-btn.pricing a {
+    margin-left: 10px;
+    padding: 9px 21px;
+    width: 210px;
+    height: 48px;
+}
+/* pricing area */
+.blog-title h1 {
+    font-size: 40px;
+}
+.blog-title h6 {
+    top: -150px;
+}
+.blog-box-left span i {
+    margin-left: 12px;
+    padding: 3px 6px;
+}
+.blog-main-title h4 a {
+    font-size: 18px;
+}
+.header-button a {
+    padding: 12px 24px;
+}
+.hosting-thumb img {
+    width: 100%;
+}
+
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.sticky {
+    position: absolute !important;
+}
+
+.hostlux_nav_manu {
+    display: none;
+}
+
+.banner-title h1 {
+    font-size: 45px;
+}
+
+.tab-thumb img {
+    width: 100%;
+    margin: 70px 0 40px;
+}
+
+.dreamit-tabs:before {
+    right: 106px;
+    width: 231px;
+    top: 49px;
+}
+
+.section-title h1 {
+    font-size: 30px;
+    line-height: 32px;
+}
+
+.text-center.section-title p {
+    width: 80%;
+}
+
+.feature-box-content p {
+    font-size: 16px;
+}
+
+button.tab-btn.active {
+    font-size: 17px;
+    line-height: 27px;
+    font-weight: 500;
+}
+
+.tab-content.active p {
+    font-size: 16px;
+}
+
+.tabs-btn ul li button {
+    font-size: 17px;
+}
+
+ul.check-list li {
+    font-size: 16px;
+}
+
+.tab-button a {
+    padding: 10px 26px;
+}
+
+ul.check-list li i {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.application-single-box {
+    padding: 30px 18px 35px;
+}
+
+.application-button a {
+    font-size: 15px;
+    line-height: 30px;
+    padding: 5px 25px;
+}
+
+.section-title h2 {
+    margin: 20px 0 -17px;
+}
+
+.security-button a {
+    font-size: 15px;
+    padding: 7px 20px;
+}
+
+.testi-cntr-title h3 {
+    font-size: 25px;
+    line-height: 41px;
+    font-weight: 700;
+}
+
+/* testimonial area */
+.testi-rate-icon:before {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 12px;
+}
+.testi-rate-icon {
+    padding: 1px 5px 0 22px;
+}
+.testi-single-box-title h3 {
+    font-size: 20px;
+    line-height: 60px;
+    font-weight: 600;
+}
+.testi-single-box-desc p {
+    font-size: 16px;
+}
+.testi-single-box-profile:before {
+    right: 298px;
+}
+.testi-profile-title h5 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.testi-profile-designation h6 {
+    font-size: 16px;
+}
+.domain-title h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+input.domain-controls {
+    width: 72%;
+    padding-left: 20px;
+}
+input.domain-btn-controls {
+    width: 90px;
+    height: 60px;
+    right: 17px;
+}
+.single-domain img {
+    margin-left: -8px;
+    width: 95%;
+}
+.tab-btn-4 ul li button {
+    font-size: 16px;
+}
+.quote-icon {
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+}
+.banner-title h5 {
+    padding: 5px 15px;
+}
+.banner-button a {
+    padding: 10px 30px;
+}
+.play-button a {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+}
+
+.breadcumb-area {
+    padding: 125px 0 50px;
+}
+
+.breadcumb-content {
+    text-align: center;
+}
+
+.feature-box-content h3 {
+    font-size: 17px;
+    line-height: 35px;
+}
+.tab-thumb {
+    margin-left: 10px;
+    margin-top: -60px;
+}
+.tab-btn-4 ul li {
+    margin: 30px 19px 0px;
+}
+.pricing-single-box.upper .pricing-content-title span {
+    width: 250px;
+    left: 505px;
+    top: 40px;
+}
+.dreamhub-btn.pricing a {
+    width: 308px;
+}
+.pricing-rate:before {
+    width: 675px;
+    right: 172px;
+    left: -20px;
+}
+.blog-title h1 {
+    font-size: 28px;
+}
+.blog-button a {
+    font-size: 17px;
+}
+.blog-title h6 {
+    top: -176px;
+    padding: 6px 10px;
+    left: 18px;
+    font-size: 14px;
+}
+.footer-widged-form button {
+    padding: 13px 15px;
+}
+.blog-main-title h4 {
+    font-size: 20px;
+}
+
+.contact-thumb img {
+    margin: 0 0 25px;
+}
+
+}
+
+/* Tablet desktop :600px. */
+@media (min-width: 600px) and (max-width: 767px) {
+.sticky {
+    position: absolute !important;
+}
+.hostlux_nav_manu {
+    display: none;
+}
+.banner-area {
+    padding: 90px 0 0;
+}
+.banner-title h5 {
+    font-size: 18px;
+    padding: 4px 12px;
+}
+.banner-thumb img {
+    padding: 0 0 90px;
+    width: 100%;
+}
+.banner-title h1 {
+    font-size: 39px;
+    line-height: 42px;
+}
+.banner-description p {
+    width: 100%;
+}
+
+.hosting-thumb img {
+    width: 100%;
+}
+
+.about_thumb img {
+    width: 100%;
+    margin-top: 40px;
+}
+.feature-area .single-feature-box {
+    margin: 60px 3px -25px;
+}
+.feature-area {
+    margin-bottom: -69px;
+}
+.service-area {
+    margin-top: 180px;
+}
+.cart-menu a i {
+    font-size: 16px;
+}
+.service-area {
+    padding: 32px 0 50px;
+    margin-top: 180px;
+}
+.service-thumb img {
+    width: 100%;
+}
+.single-domain img {
+    margin-left: 25px;
+}
+.tab-thumb {
+    margin-left: 39px;
+    margin-top: 0px;
+}
+.dreamit-tabs:before {
+    right: 22px;
+}
+.tab-thumb img {
+    width: 100%;
+}
+.domain-title h1 {
+    font-size: 37px;
+}
+
+.section-main-title h3 {
+    font-size: 35px;
+}
+
+.application-area .section-title h1 {
+    font-size: 37px;
+}
+.application-area  .text-center.section-title p {
+    width: 100%;
+}
+.application-area .application-single-box {
+  
+    margin-bottom: 30px;
+}
+.pricing-rate:before {
+    width: 428px;
+}
+.breadcumb-area {
+    padding: 125px 0 50px;
+}
+.breadcumb-content {
+    text-align: center;
+}
+.section-title h2 {
+    font-size: 30px;
+}
+.section-title h1 {
+    font-size: 35px;
+}
+.testi-single-box-profile:before {
+    height: 95px;
+    margin-top: 19px;
+}
+.testi-single-box-profile2:before {
+    right: 478px;
+}
+.testi-single-box-profile:before {
+    right: 478px;
+}
+
+.about_thumb img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.tab-btn-4 ul li button {
+    font-size: 15px;
+}
+.tab-btn-4 ul li {
+    margin: 17px 2px 0px;
+}
+.pricing-single-box.upper .pricing-content-title span {
+    left: 329px;
+    top: 38px;
+}
+.blog-title h6 {
+    top: -266px;
+}
+.blog-box-left span i {
+    margin-left: 41px;
+}
+.footer-content a {
+    font-size: 15px;
+}
+.footer-bottom-right {
+    float: left;
+}
+
+.contact-thumb img {
+    margin: 0 0 25px;
+}
+
+}
+
+/* Tablet desktop :480px. */
+@media (min-width: 480px) and (max-width: 599px) {
+
+.sticky {
+    position: absolute !important;
+}   
+nav.hostlux_menu {
+    display: none;
+}
+
+.banner-area {
+    padding: 299px 0 272px;
+}
+
+.banner-content {
+    margin: 25px 0 0;
+}
+
+.single-feature-box {
+    padding: 21px 15px 12px;
+    margin: 104px 4px 0;
+}
+
+.banner-content {
+    margin: -238px 0 0;
+}
+
+.banner-title h5 {
+    font-size: 17px;
+    padding: 5px 10px;
+}
+
+.banner-title h1 {
+    font-size: 33px;
+    line-height: 36px;
+}
+
+.banner-thumb {
+    margin: -162px 35px -235px;
+}
+
+.banner-thumb img {
+    margin-top: 195px;
+    width: 100%;
+}
+
+.banner-button a {
+    padding: 7px 30px;
+}
+
+.play-button {
+    margin-left: 15px;
+}
+
+.play-button a {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.row.security-area {
+    padding: 35px 28px 45px;
+}
+
+.feature-area {
+    margin-top: -85px;
+    margin-bottom: 29px;
+}
+
+.service-area {
+    padding: 52px 0 58px;
+}
+
+.service-thumb {
+    margin: 80px 0px -7px;
+}
+
+.service-thumb img {
+    width: 100%;
+}
+
+.contact-thumb img {
+    margin: 0 0 25px;
+}
+
+.tab-thumb img {
+    display: none;
+}
+
+.tab-are {
+    padding: 36px 0 40px;
+}
+.section-title h1 {
+    font-size: 30px;
+    line-height: 34px;
+}
+
+.tabs-btn ul li button {
+    font-size: 14px;
+}
+button.tab-btn.active {
+    font-size: 15px;
+}
+
+.tab-button a {
+    padding: 8px 25px;
+}
+
+.application-area {
+    padding: 40px 0 100px;
+}
+.text-center.section-title p {
+    width: 72%;
+}
+
+.about_thumb img {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.application-single-box {
+    padding: 11px 4px 45px;
+}
+
+.section-title h2 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.security-button a {
+    font-size: 15px;
+    padding: 8px 18px;
+}
+
+.testi-cntr-title h3 {
+    font-size: 28px;
+    line-height: 35px;
+    font-weight: 700;
+}
+
+.testi-single-box-profile:before {
+    right: 418px;
+    margin-top: 19px;
+}
+
+.testi-single-box-profile2:before {
+    right: 418px;
+}
+
+.domain-title h1 {
+    font-size: 28px;
+}
+
+.domain-thumb img {
+    width: 100%;
+}
+
+.domain-thumb {
+    padding-top: 110px;
+}
+
+.single-domain img {
+    margin-left: 4px;
+}
+
+.hosting-thumb img {
+    width: 100%;
+}
+
+.section-main-title {
+    margin-top: 90px;
+}
+
+.section-main-title h3 {
+    font-size: 35px;
+}
+
+.tab-btn-4 ul li {
+    margin: 14px 16px 0px;
+}
+
+.pricing-area .tab-btn {
+    text-align: center;
+    margin: 55px 0 15px;
+}
+
+.dreamit-tabs:before {
+    top: 55px;
+    right: 16px;
+    width: 442px;
+}
+
+.pricing-single-box.upper .pricing-content-title span {
+    left: 262px;
+    top: 40px;
+    padding: 5px 30px;
+}
+
+.pricing-single-box.upper .pricing-content-title span {
+    left: 262px;
+    top: 48px;
+}
+
+.blog-title h1 {
+    font-size: 36px;
+}
+
+.footer-bottom-content a {
+    float: left;
+}
+
+}
+
+/* Mobaile :320px. */
+@media (min-width: 320px) and (max-width: 479px) {
+ 
+.sticky {
+    position: absolute !important;
+}     
+nav.hostlux_menu {
+    display: none;
+}
+.banner-area {
+    padding: 0px 0 105px;
+}
+.banner-thumb img {
+    width: 100%;
+}
+.banner-title h5 {
+    font-size: 12px;
+    padding: 2px 10px;
+    margin-top: 117px;
+}
+.banner-button a i {
+    font-size: 12px;
+}
+.banner-button a {
+    font-size: 15px;
+    padding: 2px 12px;
+}
+.play-button a {
+    font-size: 14px;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+}
+.play-button {
+    padding: 5px;
+    margin-left: 12px;
+}
+.banner-title h1 {
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: 500;
+}
+.banner-thumb.bounce-animate img {
+    width: 100%;
+    margin-bottom: 134px;
+}
+.single-feature-box {
+    display: inherit;
+}
+.feature-box-content h3 {
+    font-size: 23px;
+}
+.feature-box-content p {
+    font-size: 18px;
+}
+.section-title h1 {
+    font-size: 23px;
+    line-height: 24px;
+}
+.feature-box-content p {
+    font-size: 15px;
+}
+.service-title h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.hosting-thumb img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.contact-thumb img {
+    margin: 0;
+}
+
+.service-area {
+    padding: 160px 0 10px;
+}
+.service-thumb img {
+    display: none;
+}
+.tab-thumb img {
+    width: 100%;
+    margin-bottom: 35px;
+    right: 0;
+}
+.tab-are {
+    padding: 19px 0 21px;
+}
+.tab-button a {
+    font-size: 12px;
+    padding: 0px 12px;
+}
+.tab-button a i {
+    font-size: 12px;
+}
+.service-area .section-title h1 {
+    font-size: 22px;
+    line-height: 28px;
+}
+.application-area {
+    padding: 24px 0 90px;
+}
+.security-thumb img {
+    width: 100%;
+}
+.section-title h2 {
+    font-size: 20px;
+    margin: 30px 0 -26px;
+}
+.row.security-area {
+    padding: 35px 10px 45px;
+}
+.security-description p {
+    font-size: 18px;
+    padding: 44px 0px 15px;
+}
+.security-button a {
+    font-size: 14px;
+    padding: 6px 16px;
+}
+.testimonial-area {
+    padding: 25px 0 40px;
+}
+.testi-cntr-title h3 {
+    font-size: 22px;
+    font-weight: 700;
+}
+.testi-cntr-title span.cl0 {
+    margin-left: -3px;
+}
+.testi-cntr-title h3 span {
+    margin-left: -3px;
+}
+.testi-cntr-title h5 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+}
+.testi-rate-icon {
+    padding: 0px 4px 0px 9px;
+    margin-left: 23px;
+}
+.testi-rate-icon ul {
+    font-size: 12px;
+}
+ul.check-list li i {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 18px;
+}
+ul.check-list li {
+    font-size: 16px;
+}
+.text-center.section-title p {
+    padding: 19px 0 42px;
+    width: 100%;
+}
+.application-button a {
+    padding: 2px 20px;
+}
+
+.quote-icon {
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+}
+.testi-rate-icon:before {
+    left: -23px;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    padding: 0 0 0 4px;
+    font-size: 11px;
+}
+
+.testi-rate-icon ul li {
+    margin: 5px 2px 4px;
+}
+
+.quote-icon img {
+    padding: 3px 3px;
+}
+.testi-single-box {
+    padding: 25px 24px 55px;
+}
+.testi-single-box-title h3 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.testi-single-box-desc p {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.testi-single-box-profile:before {
+    top: -2px;
+    right: 259px;
+    height: 84px;
+}
+
+.testi-profile-icon img {
+    padding: 7px 10px 6px 24px;
+    left: -29px;
+}
+
+.testi-profile-title h5 {
+    font-size: 17px;
+    font-weight: 600;
+    margin: 17px 0 0;
+}
+
+.testi-profile-designation h6 {
+    font-size: 14px;
+}
+
+.testi-rate-icon2:before {
+    left: -20px;
+    width: 38px;
+    height: 38px;
+    line-height: 38px;
+    padding: 0 0 0 4px;
+    font-size: 12px;
+}
+
+.testi-rate-icon2 {
+    padding: 0px 7px 0px 16px;
+}
+
+.quote-icon2 img {
+    padding: 5px;
+}
+
+.testi-single-box-title2 h3 {
+    font-size: 19px;
+    line-height: 50px;
+    font-weight: 500;
+}
+
+.testi-single-box-desc2 p {
+    font-size: 15px;
+}
+
+.testi-single-box-profile2:before {
+    right: 258px;
+    height: 89px;
+}
+
+.testi-profile-icon2 img {
+    padding: 8px 11px 9px 19px;
+}
+
+.testi-profile-title2 h5 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 50px 0 -5px;
+}
+
+.testi-profile-content2 {
+    margin-right: 5px;
+}
+
+
+.domain-thumb img {
+    width: 100%;
+}
+
+.domain-title h1 {
+    font-size: 31px;
+    font-weight: 600;
+}
+
+input.domain-controls {
+    height: 40px;
+    width: 75%;
+    border-radius: 30px;
+    padding-left: 10px;
+}
+
+input.domain-btn-controls {
+    border: none;
+    width: 60px;
+    height: 40px;
+}
+
+select#domain-select {
+    width: 60px;
+    right: 90px;
+    top: 10px;
+}
+
+.domain-btn input {
+    margin-right: 30px;
+}
+
+.single-domain img {
+    margin-left: 11px;
+    width: 43px;
+}
+.footer-content a {
+    font-size: 16px;
+}
+
+.footer-bottom-content a {
+    font-size: 16px;
+    float: inherit;
+}
+
+.section-main-title h3 {
+    font-size: 30px;
+    line-height: 30px;
+}
+.section-main-title h3 span {
+    font-size: 30px;
+}
+
+.pricing-area .tab-btn {
+    text-align: center;
+    margin: 20px 0 0;
+}
+
+.tab-btn-4 ul li button {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+}
+
+.tab-btn-4 ul li {
+    margin: 0px 9px 0;
+}
+
+.tab-btn ul li button {
+    padding: 4px 10px;
+}
+
+.pricing-content-title h5 {
+    font-size: 20px;
+}
+
+.pricing-content-title span {
+    padding: 5px 4px 5px;
+}
+
+.pricing-rate h3 {
+    font-size: 22px;
+}
+
+.pricing-info ul li {
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.dreamhub-btn.pricing a {
+    padding: 12px 50px;
+    width: 213px;
+}
+
+.pricing-single-box.upper .pricing-content-title span {
+    padding: 3px 6px;
+    width: 196px;
+    left: 133px;
+    top: 42px;
+}
+
+.pricing-rate:before {
+    width: 274px;
+    top: 63px;
+    right: 0;
+    left: -20px;
+}
+
+.blog-area {
+    margin-top: 65px;
+}
+
+.blog-title h1 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 4px;
+}
+
+.blog-button a {
+    font-size: 14px;
+    line-height: 30px;
+    padding: 5px 15px;
+}
+
+.blog-button a i {
+    font-size: 12px;
+}
+
+.blog-title h6 {
+    top: -146px;
+    left: 8px;
+    padding: 5px 7px;
+    font-size: 14px;
+}
+
+.blog-box-button a {
+    font-size: 14px;
+    line-height: 20px;
+    margin-left: 10px;
+}
+
+.blog-box-button a i {
+    font-size: 14px;
+    padding-left: 3px;
+}
+
+.blog-box-title h6 {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.blog-box-title h6 {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.brand-section-title h5 {
+    padding-top: 15px;
+    font-size: 22px;
+    line-height: 15px;
+    font-weight: 500;
+    margin: 45px 0 5px;
+}
+
+.footer-description p {
+    font-size: 19px;
+    margin: 20px 0 11px;
+}
+
+.brand-area.one {
+    width: 288px;
+    margin: 50px 0px 100px;
+}
+
+.about_thumb img {
+    width: 100%;
+    padding-top: 35px;
+}
+
+
+
+}
+
