@@ -381,8 +381,8 @@ ul.sub-menu li:hover a span{
  ========== End Banner Area ================
 ==================================================*/
 .banner-area {
-    /* background-color: #1356e4; */
-    background-image: url('/assets/images/banner/banner_bg.png');
+    background-color: #159da7;
+    /* background-image: url('/assets/images/banner/banner_bg.png'); IMAGE */
     background-size: cover;
     background-repeat: no-repeat;
     margin-bottom: 30px;
@@ -464,6 +464,14 @@ ul.sub-menu li:hover a span{
 .banner-button a:hover i{
     color: #fff;
 }
+/* custom editing video-block */
+.video {
+    text-align: center;
+    height: 30rem;
+    line-height: 30rem;
+    background: #6c5c5c;
+}
+/* end custom editing video-block */
 .play-button {
     display: inline-block;
     border: 1px solid #fff;
