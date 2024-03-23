@@ -31,7 +31,7 @@
 @media (min-width: 1300px) and (max-width: 1399px) {
 /*header-menu*/
 .hostlux_menu>ul>li>a {
-    margin: 15px 7px;
+    margin: 7px 7px;
 }
 
 .tab-thumb img {
@@ -103,7 +103,7 @@ span.pricing-persent {
 }
 
 .hostlux_menu>ul>li>a {
-    margin: 15px 7px;
+    margin: 7px 7px;
 }
 
 .sticky .hostlux_menu>ul>li>a {

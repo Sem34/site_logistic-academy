@@ -9,7 +9,7 @@
     transition: .5s;
     z-index: 2;
     position: relative;
-    padding: 6px 0 0;
+    padding: 6px 0 6px;
 }
 ul.nav_scroll li a span i {
     font-size: 16px;
@@ -69,15 +69,19 @@ nav.hostlux_menu {
     position: relative;
     list-style: none;
     z-index: 1;
+    border: 0;
+    border-radius: 30px;
+    background: #ffffffa8;
+    padding: 0px 10px;
 }
 
 .hostlux_menu>ul>li>a {
     font-size: 17px;
     display: block;
-    margin: 25px 15px;
+    margin: 7px 7px;
     transition: .5s;
     color: #101210;
-    font-weight: 500;
+    font-weight: 800;
 }
 
 nav.hostlux_menu span {
@@ -86,8 +90,12 @@ nav.hostlux_menu span {
     font-family: FontAwesome;
     opacity: .5;
 }
+.hostlux_menu>ul>li:hover {
+    background-color: #0000004a;
+    transition: 2s;
+}
 .hostlux_menu>ul>li>a:hover {
-    color: #1356e4;
+    color: #ffffff;
 }
 .hostlux_menu ul li a i{
     color: #ffffff;
@@ -113,7 +121,7 @@ nav.hostlux_menu span {
     font-weight: 500;
     text-decoration: none;
     color: #fff;
-    background: linear-gradient(90deg, #0cb6f4 0%, #1e58d9 100%);
+    background: linear-gradient(90deg, #2E3840 0%, #FFBD59 100%);
     border-radius: 30px;
     display: inline-block;
     position: relative;
@@ -130,7 +138,7 @@ nav.hostlux_menu span {
     top: 0;
     width: 0;
     height: 100%;
-    background: #1f4aeb;
+    background: #FFBD59;
     border-radius: 22px 0 0 21px;
     transition: .5s;
 }
@@ -142,7 +150,7 @@ nav.hostlux_menu span {
     top: 0;
     width: 0;
     height: 100%;
-    background: #1f4aeb;
+    background: #FFBD59;
     border-radius: 0 22px 21px 0;
     transition: .5s;
 }
@@ -156,7 +164,7 @@ nav.hostlux_menu span {
     color: #000 !important;
 }
 .header-button a:hover {
-    background: linear-gradient(90deg, #0cb6f4 0%, #1e58d9 100%);
+    background: linear-gradient(90deg, #000000 0%, #ffffff 100%);
 }
   .header-button a i {
     padding-right: 5px;
@@ -1772,6 +1780,9 @@ span.pricing-persent {
     color: #ffffff;
     background: #1356e4;
     padding: 95px 0 90px;
+}
+.footer-logo img {
+    max-width: 200px;
 }
 .footer-logo a {
     display: inline-block;
