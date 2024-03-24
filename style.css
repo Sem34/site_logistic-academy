@@ -391,11 +391,12 @@ ul.sub-menu li:hover a span{
 ==================================================*/
 .banner-area {
     /* background-color: #159da7; */
-    background-image: url("./assets/images/banner/banner_bg.png"); 
-    background-size: cover;
+    background-image: url("./assets/images/banner/banner_bg.png"), url("./assets/images/banner/banner-bg-4.jpg"); 
+    background-size: 80%, 120%;
+    background-position: left top, left top;
     background-repeat: no-repeat;
-    margin-bottom: 30px;
-    padding: 125px 0 125px;
+    /* margin-bottom: 30px; */
+    padding: 200px 0 200px;
 }
 .banner-title h1 {
     font-size: 58px;
@@ -587,7 +588,8 @@ ul.sub-menu li:hover a span{
     float: left;
     align-items: center;
     padding: 0 0px 0px;
-    margin-bottom: 20px;
+    margin-top: 100px;
+    margin-bottom: 60px;
 }
 
 .service-icon img {
@@ -847,7 +849,7 @@ ul.check-list li {
     font-size: 32px;
     color: #041341;
     font-weight: 800;
-    margin: 3px 0 -7px;
+    margin: 20px 0;
 }
 .application-button a {
     font-size: 16px;
@@ -1779,7 +1781,7 @@ span.pricing-persent {
 ==================================================*/
 .footer-area {
     color: #ffffff;
-    background: #1356e4;
+    background: #408C97;
     padding: 95px 0 90px;
 }
 .footer-logo img {
@@ -1868,7 +1870,7 @@ span.pricing-persent {
     font-weight: 400;
 }
 .footer-bottom-area {
-    background: #0548d5;
+    background: #408C97;
 }
 .footer-content a {
     font-size: 17px;
@@ -2262,14 +2264,14 @@ img.dom-ani {
 --<	Start Domain area Css -->
 ======================================================*/
 .why-choose-area {
-    background: url(assets/images/choose_bg.jpg);
+    background: url(assets/images/bg-rotate-180.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     padding: 80px 0 70px;
 }
 .why-choose-single-item {
-    background: #F6F4F5;
+    /* background: #F6F4F5; */
     display: flex;
     align-items: center;
     margin-bottom: 30px;
@@ -2280,7 +2282,7 @@ img.dom-ani {
 }
 .why-choose-single-item::before {
     position: absolute;
-    background: url(assets/images/choose--img.png) no-repeat;
+    background: url(assets/images/banner/banner_bg.png) no-repeat;
     content: "";
     left: 0;
     top: 0;
@@ -2299,18 +2301,21 @@ img.dom-ani {
 .why-choose-icon {
     width: 155px;
     height: 95px;
-    border-radius: 50%;
-    background-color: #ffffff;
+    /* border-radius: 50%; */
+    /* background-color: #ffffff; */
     margin-right: 25px;
     display: inline-block;
     line-height: 90px;
     text-align: center;
     transition: .5s;
 }
+.why-choose-icon img{
+    max-width: 100%;
+}
 h3.choose-title {
-    font-size: 22px;
-    color: #041341;
-    font-weight: 700;
+    font-size: 26px;
+    color: #FFBD59;
+    font-weight: 900;
     font-family: "Urbanist";
     margin-bottom: 11px;
     margin-top: 0;
@@ -2328,13 +2333,13 @@ h3.choose-title {
 
 /* all hover */
 .why-choose-single-item:hover .why-choose-icon {
-    background: #FF8731;
+    /* background: #FF8731; */
 }
 .why-choose-single-item:hover h3.choose-title {
-    color: #fff;
+    /* color: #FFBD59; */
 }
 .why-choose-single-item:hover .why-choose-content p  {
-    color: #fff;
+    /* color: #fff; */
 }
 /*====================================================
 --<	End Domain area Css -->
