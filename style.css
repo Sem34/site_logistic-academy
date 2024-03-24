@@ -54,7 +54,7 @@ ul.nav_scroll li a span i {
 /* Host Lux Menu Css*/
 .hostlux_nav_manu {
     /* background: #408C97; */
-    background-image: url('/assets/images/banner/banner_bg.png'); 
+    background-image: url('../assets/images/banner/banner_bg.png'); 
 }
 nav.hostlux_menu {
     display: flex;
