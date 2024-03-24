@@ -54,7 +54,7 @@ ul.nav_scroll li a span i {
 /* Host Lux Menu Css*/
 .hostlux_nav_manu {
     /* background: #408C97; */
-    background-image: url("../LP_academy/assets/images/banner/banner_bg.png"); 
+    background-image: url("./assets/images/banner/banner_bg.png"); 
 }
 nav.hostlux_menu {
     display: flex;
@@ -391,7 +391,7 @@ ul.sub-menu li:hover a span{
 ==================================================*/
 .banner-area {
     /* background-color: #159da7; */
-    background-image: url("../LP_academy/assets/images/banner/banner_bg.png"); 
+    background-image: url("./assets/images/banner/banner_bg.png"); 
     background-size: cover;
     background-repeat: no-repeat;
     margin-bottom: 30px;
