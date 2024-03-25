@@ -479,7 +479,7 @@ ul.sub-menu li:hover a span{
     text-align: center;
     height: 30rem;
     line-height: 30rem;
-    background: #6c5c5c;
+    background: #2E3840;
 }
 /* end custom editing video-block */
 .play-button {
@@ -512,7 +512,7 @@ ul.sub-menu li:hover a span{
     font-size: 17px;
     line-height: 27px;
     font-weight: 400;
-    padding: 27px 0 4px;
+    padding: 0 0 4px;
 }
 .text-center.section-title p {
     padding: 27px 0 60px;
@@ -779,9 +779,9 @@ ul.check-list li {
 ==================================================*/
 .application-area {
     padding: 105px 0 90px;
-    background-image: url(assets/images/testimo.png);
+    /* background-image: url(assets/images/banner/banner-bg-3.png); */
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     background-position: center;
 }
 .application-single-box {
@@ -800,7 +800,7 @@ ul.check-list li {
     right: 0;
     height: 100%;
     width: 0;
-    background: #1356e4;
+    background: #408C97;
     border-radius: 5px;
     transition: .5s;
     opacity: .45;
@@ -847,7 +847,7 @@ ul.check-list li {
 }
 .section-title h2 {
     font-size: 32px;
-    color: #041341;
+    color: #ffffff;
     font-weight: 800;
     margin: 20px 0;
 }
@@ -876,7 +876,7 @@ ul.check-list li {
     width: 0;
     height: 100%;
     left: 0;
-    background: linear-gradient(90deg, #1e58d9 0%, #0cb6f4 100%);
+    background: linear-gradient(90deg, #408C97 0%, #f48f0c 100%);
     border-radius: 25px 0 0 25px;
     transition: .5s;
 }
@@ -2072,7 +2072,7 @@ img.dom-ani {
 .section-title p {
     font-size: 17px;
     line-height: 28px;
-    color: #636363;
+    color: #ffffff;
     font-weight: 400;
 }
 
@@ -2343,6 +2343,104 @@ h3.choose-title {
 }
 /*====================================================
 --<	End Domain area Css -->
+======================================================*/
+
+/*====================================================
+--<	Start Modulus area Css -->
+======================================================*/
+.modulus {
+    background: url(assets/images/warehouse.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 80px 0 70px;
+}
+.modulus-bg {
+    border-radius: 30px;
+    background-color: #408c97;
+    position: absolute;
+    width: 100%;
+    height: 70%;
+    opacity: 0.7;
+}
+.modulus-single-item {
+    background: #F6F4F5;
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    position: relative;
+    z-index: 1;
+    padding: 30px 30px 30px;
+    border-radius: 5px;
+}
+.modulus-single-item::before {
+    position: absolute;
+    /* background: url(assets/images/banner/banner_bg.png) no-repeat; */
+    content: "";
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 0%;
+    z-index: -1;
+    border-radius: 5px;
+    transition: .5s;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.modulus-single-item:hover:before {
+    width: 100%;
+}
+.modulus-icon {
+    width: 155px;
+    height: 95px;
+    /* border-radius: 50%; */
+    /* background-color: #ffffff; */
+    margin-right: 25px;
+    display: inline-block;
+    line-height: 90px;
+    text-align: center;
+    transition: .5s;
+}
+.modulus-icon img{
+    max-width: 100%;
+}
+h3.modulus-choose-title {
+    font-size: 26px;
+    color: #ffbd59;
+    font-weight: 900;
+    font-family: "Urbanist";
+    margin-bottom: 11px;
+    margin-top: 0;
+    transition: .5s;
+}
+.modulus-content{
+    color: #fff;
+    z-index: 99;
+    position: relative;
+}
+.modulus-content p {
+    margin: 0;
+    transition: .5s;
+}
+.choose-thumb {
+    text-align: right;
+    position: relative;
+    bottom: -71px;
+}
+
+/* all hover */
+.modulus-single-item:hover .why-choose-icon {
+    /* background: #FF8731; */
+}
+.modulus-single-item:hover h3.choose-title {
+    /* color: #FFBD59; */
+}
+.modulus-single-item:hover .why-choose-content p  {
+    /* color: #fff; */
+}
+/*====================================================
+--<	End Modulus area Css -->
 ======================================================*/
 
 /*====================================================
