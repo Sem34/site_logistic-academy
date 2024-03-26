@@ -1,6 +1,10 @@
 a.meanmenu-reveal{display:none}
 .mean-container .mean-bar {
-  background: #1f4aeb;
+  /* background: #1f4aeb; */
+  background-image: url(../images/banner/banner_bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 100%;
   float: left;
   min-height: 60px;
   padding: 4px 0 0;
@@ -119,13 +123,13 @@ a.meanmenu-reveal{display:none}
 .mean-container a.meanmenu-reveal:hover span {
   background: #fff;
 }
-.mean-container .mean-bar::before {
+/* .mean-container .mean-bar::before {
     color: #fff;
-    content: "Host Lux";
+    content: "Academy of Transport Logistics";
     font-size: 28px;
     font-weight: 600;
     left: 10px;
     position: absolute;
     top: 18px;
-}
+} */
 
