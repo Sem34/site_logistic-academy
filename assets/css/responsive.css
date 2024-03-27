@@ -3,6 +3,9 @@
     .banner-thumb img {
         width: 100%;
     }
+    .hostlux_nav_manu {
+        background-size: 100%;
+    }
 
     .hostlux_menu>ul>li>a {
         font-size: 18px;
@@ -24,6 +27,15 @@
         height: 60px;
         width: 60px;
         line-height: 60px;
+    }
+    .service-thumb img {
+        max-width: 100%;
+    }
+    .service-description p {
+        margin: 0 0 0 30px;
+    }
+    .modulus-bg {
+        height: 90%;
     }
 
 }
@@ -92,7 +104,15 @@ span.pricing-persent {
 .blog-title h6 {
     top: -180px;
 }
-
+.service-thumb img {
+    max-width: 100%;
+}
+.service-description p {
+    margin: 0 0 0 30px;
+}
+.modulus-bg {
+    height: 100%;
+}
 }
 
 
@@ -951,7 +971,7 @@ nav.hostlux_menu {
     background-size: 100%, 0;
 }
 .banner-description p {
-    color: #000000;
+    color: #ffffff;
 }
 .banner-thumb img {
     width: 100%;
@@ -970,7 +990,7 @@ nav.hostlux_menu {
 }
 .banner-button a {
     font-size: 15px;
-    padding: 2px 12px;
+    padding: 12px 32px;
 }
 .play-button a {
     font-size: 14px;

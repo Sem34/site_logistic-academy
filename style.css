@@ -417,6 +417,10 @@ ul.sub-menu li:hover a span{
     padding: 7px 23px;
     margin-bottom: 10px;
 }
+.banner-description {
+    background:rgba(46, 54, 64, 0.5);
+    padding: 20px;
+}
 .banner-description p {
     margin: 17px 0 12px;
     font-size: 17px;
@@ -2336,10 +2340,11 @@ img.dom-ani {
 }
 .why-choose-icon img{
     max-width: 100%;
+    min-width: 90px;
 }
 h3.choose-title {
     font-size: 26px;
-    color: #FFBD59;
+    color: #000000;
     font-weight: 900;
     font-family: "Urbanist";
     margin-bottom: 11px;
